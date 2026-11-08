@@ -386,7 +386,7 @@ export default function GiftClient({ data }: Props) {
         <Sparkles />
         <div className="content-wrapper">
           <p className="subtitle">✦ IT IS A YES! ✦</p>
-          <h1 className="gift-title">Knew you would say yes! ❤️</h1>
+          <h1 className="gift-title">Knew you would say yes! 💗</h1>
           <div className="svg-container">
             <Image src="/images/bear-hug.gif" alt="Yay!" fill style={{ objectFit: 'cover', borderRadius: '50%' }} unoptimized />
           </div>
